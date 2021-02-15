@@ -1,0 +1,55 @@
+.header {
+  height: 50px;
+  border-bottom: 1px solid #000;
+  margin-bottom: 20px;
+}
+.header-image,
+.header-language,
+.header-disabled,
+.header-search,
+.header-sitemap,
+.header-smallmenu {
+  display: none;
+}
+.header-logo {
+  margin-left: 0;
+  left: 0;
+}
+.menu,
+/*.footer,*/
+.footer-image,
+.footer-main,
+.footer-sub,
+.layout-aside {
+  display: none !important;
+}
+.footer-info>a {
+  display: none;
+}
+.layout-main {
+  width: 100%;
+}
+.page,
+body {
+  background: none;
+}
+.crumb {
+  overflow: visible;
+}
+.logo {
+  width: 100%;
+}
+.logo-image {
+  display: none;
+}
+.logo-descriptor {
+  margin-left: 0;
+  color: #000;
+}
+.logo-title {
+  margin-left: 0;
+  color: #000;
+}
+.logo-title br {
+  display: none;
+}
